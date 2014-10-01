@@ -1,6 +1,0 @@
----
-Name: mandrill
-After:
-  - 'framework/*'
-  - 'cms/*'
----
